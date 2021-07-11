@@ -158,9 +158,9 @@ void setup() {
 }
 
 void loop() {
-//  TA = Read_Amb_Humidity();
-//  TS = Read_Soil_Temperature();
-//  HA = Read_Amb_Humidity();
-//  HS = Read_Soil_Moisture();
-//  delay(2000);
+ TA = Read_Amb_Humidity();
+ TS = Read_Soil_Temperature();
+ HA = Read_Amb_Humidity();
+ HS = Read_Soil_Moisture();
+ delay(2000);
 }
